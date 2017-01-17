@@ -11,4 +11,8 @@ public class Test {
     return test;
   }
 
+  public void setTest(int test){
+    this.test = test;		
+  }
+
 }
